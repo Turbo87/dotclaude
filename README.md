@@ -31,14 +31,20 @@ Specialized AI agents for different domains:
 - **cargo-specialist**: Rust Cargo and dependency management
 - **code-reviewer**: Comprehensive code quality review
 - **cpp-expert**: Modern C++ patterns and optimization
+- **cross-platform-ui-specialist**: UI rendering and touch interfaces
 - **database-optimizer**: SQL query optimization and schema design
 - **dependency-analyst**: Dependency updates and security analysis
 - **devops-engineer**: Infrastructure and deployment automation
+- **documentation-writer**: Technical documentation and API docs
+- **geospatial-mapping-specialist**: Map rendering and coordinate systems
 - **integration-tester**: End-to-end testing strategies
 - **migration-specialist**: Safe database migrations and refactoring
+- **mobile-android-specialist**: Android NDK development and optimization
+- **nmea-protocol-specialist**: NMEA sentence parsing and GPS data handling
 - **performance-engineer**: Performance profiling and optimization
 - **rust-expert**: Idiomatic Rust patterns and best practices
 - **security-auditor**: Security vulnerability assessment
+- **supply-chain-reviewer**: Dependency risk assessment and auditing
 - **test-automator**: Comprehensive testing strategies
 
 ### ⚡ Commands (`commands/`)

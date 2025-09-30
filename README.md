@@ -43,6 +43,7 @@ Specialized AI agents for different domains:
 - **mobile-android-specialist**: Android NDK development and optimization
 - **nmea-protocol-specialist**: NMEA sentence parsing and GPS data handling
 - **performance-engineer**: Performance profiling and optimization
+- **prompt-engineer**: Crafting effective prompts for Claude Code interactions
 - **rust-expert**: Idiomatic Rust patterns and best practices
 - **security-auditor**: Security vulnerability assessment
 - **shell-script-specialist**: Bash/shell scripting and automation

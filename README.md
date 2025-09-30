@@ -45,6 +45,7 @@ Specialized AI agents for different domains:
 - **performance-engineer**: Performance profiling and optimization
 - **rust-expert**: Idiomatic Rust patterns and best practices
 - **security-auditor**: Security vulnerability assessment
+- **shell-script-specialist**: Bash/shell scripting and automation
 - **supply-chain-reviewer**: Dependency risk assessment and auditing
 - **test-automator**: Comprehensive testing strategies
 

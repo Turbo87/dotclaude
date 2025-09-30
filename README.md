@@ -29,6 +29,7 @@ Specialized AI agents for different domains:
 - **api-designer**: RESTful API design and review
 - **aviation-domain-expert**: Flight computer algorithms and aviation theory
 - **cargo-specialist**: Rust Cargo and dependency management
+- **cicd-specialist**: CI pipeline design and GitHub Actions workflows
 - **code-reviewer**: Comprehensive code quality review
 - **cpp-expert**: Modern C++ patterns and optimization
 - **cross-platform-ui-specialist**: UI rendering and touch interfaces

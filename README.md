@@ -38,6 +38,7 @@ Specialized AI agents for different domains:
 - **dependency-analyst**: Dependency updates and security analysis
 - **devops-engineer**: Infrastructure and deployment automation
 - **documentation-writer**: Technical documentation and API docs
+- **ember-specialist**: Ember.js applications and Ember Data modeling
 - **geospatial-mapping-specialist**: Map rendering and coordinate systems
 - **integration-tester**: End-to-end testing strategies
 - **migration-specialist**: Safe database migrations and refactoring

@@ -49,6 +49,7 @@ Specialized AI agents for different domains:
 - **shell-script-specialist**: Bash/shell scripting and automation
 - **supply-chain-reviewer**: Dependency risk assessment and auditing
 - **test-automator**: Comprehensive testing strategies
+- **web-accessibility-specialist**: WCAG compliance and inclusive design
 
 ### ⚡ Commands (`commands/`)
 Custom slash commands for common workflows:

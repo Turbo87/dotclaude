@@ -50,6 +50,7 @@ Specialized AI agents for different domains:
 - **security-auditor**: Security vulnerability assessment
 - **shell-script-specialist**: Bash/shell scripting and automation
 - **supply-chain-reviewer**: Dependency risk assessment and auditing
+- **svelte-specialist**: Svelte component development and SvelteKit applications
 - **test-automator**: Comprehensive testing strategies
 - **web-accessibility-specialist**: WCAG compliance and inclusive design
 

@@ -33,6 +33,7 @@ Specialized AI agents for different domains:
 - **code-reviewer**: Comprehensive code quality review
 - **cpp-expert**: Modern C++ patterns and optimization
 - **cross-platform-ui-specialist**: UI rendering and touch interfaces
+- **css-specialist**: CSS architecture and modern layout systems
 - **database-optimizer**: SQL query optimization and schema design
 - **dependency-analyst**: Dependency updates and security analysis
 - **devops-engineer**: Infrastructure and deployment automation

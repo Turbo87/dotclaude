@@ -1,0 +1,25 @@
+# Personal settings and API configurations
+settings.json
+
+# Conversation history and project data
+history.jsonl
+projects/
+shell-snapshots/
+todos/
+
+# Logs and debug files
+logs/
+*.log
+
+# Local installations and dependencies
+local/
+node_modules/
+
+# IDE and editor files
+ide/
+
+# Plugin configurations (may contain personal data)
+plugins/
+
+# Analytics and telemetry data
+statsig/
